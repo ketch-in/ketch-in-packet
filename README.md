@@ -3,6 +3,8 @@
 <p align="center">
   <a href="./LICENSE"><img src="https://img.shields.io/npm/l/@ketch-in/packet?style=flat-square" title="license"/></a>
   <a href="https://www.npmjs.com/package/@ketch-in/packet"><img src="https://img.shields.io/npm/v/@ketch-in/packet?style=flat-square" title="npm-version"/></a>
+  <br />
+  <a href="https://github.com/ketch-in/packet/actions/workflows/npm-publish.yml"><img src="https://github.com/ketch-in/packet/actions/workflows/npm-publish.yml/badge.svg" title="Deploy NPM Package"/></a>
 </p>
 
 <!-- omit in toc -->
